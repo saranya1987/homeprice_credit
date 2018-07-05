@@ -4,7 +4,7 @@ gunicorn==19.3.0
 Jinja2==2.8
 requests>=2.9.0
 numpy>=1.10.0
-pandas
+pandas==0.18.1
 Flask-WTF
 WTForms
 scikit-learn
