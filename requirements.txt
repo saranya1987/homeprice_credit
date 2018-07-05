@@ -1,4 +1,4 @@
-dill==0.2.5
+dill==0.2.9
 Flask==0.10.1
 gunicorn==19.3.0
 Jinja2==2.8
